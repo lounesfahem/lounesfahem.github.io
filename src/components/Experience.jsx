@@ -21,8 +21,7 @@ const JOBS = [
 ]
 
 const EDU = [
-  { year: '2026 — 2029', degree: `Cycle Ingénieur — Cybersécurité', school: 'ESIEA Paris`,                    mention: 'Admis'         },
-  { year: '2026 — 2029', degree: `Cycle Ingénieur — Télécoms & Réseaux' , school: 'IMT Nord Europe`, mention: 'En cours'      },
+  { year: '2026 — 2029', degree: `Cycle Ingénieur — Télécoms & Réseaux' , school: 'IMT Nord Europe`, mention: 'Admis'      },
   { year: '2023 — 2025', degree: `BTS CIEL — Cyber, Informatique & Réseaux', school: 'Lycée Polyvalent Colbert`,          mention: 'Obtenu'},
   { year: '2020 — 2023', degree: `Baccalauréat STI2D',                   school: 'Lycée Privée Saint-Rémi' , mention: 'Mention Bien`, mention:'Obtenu' },
 ]
