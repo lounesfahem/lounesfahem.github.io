@@ -4,7 +4,7 @@ import './About.css'
 const INFO = [
   { key: 'Localisation', val: 'Wattrelos / Nord (59)' },
   { key: 'Mobilité',     val: 'Paris · Lille'},
-  { key: 'Formation',    val: 'Cycle Ingénieur — ESIEA 2026' },
+  { key: 'Formation',    val: 'Cycle Ingénieur — IMT Nord Europe 2026' },
   { key: 'Statut',       val: null, badge: 'En poste · Recherche alternance' },
   { key: 'Langues',      val: 'Français · Anglais · Kabyle' },
 ]
