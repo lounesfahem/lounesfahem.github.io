@@ -28,7 +28,7 @@ const PROJECTS = [
     title: 'Site e-commerce SEO',
     desc: 'Site e-commerce basé sur la niche des hachoirs, propulsé via shopify.',
     tags: ['Développement Web', 'Email Marketing', 'Marketing', 'SEO', 'Auto-formation', 'Agents IA', 'Supply chain'],
-    link: { href: 'https://github.com/lounesfahem/lounesfahem.github.io', label: 'Voir le projet →' },
+    link: { href: 'hachoir-cuisine.com', label: 'Voir le projet →' },
   },
 ]
 
