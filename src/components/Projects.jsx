@@ -6,14 +6,14 @@ const PROJECTS = [
     num: '001',
     title: 'Homelab Cybersécurité',
     desc: 'Architecture 3-Tier segmentée via pfSense avec isolation LAN / DMZ / IoT. SOC personnel sous Wazuh, Active Directory Windows Server 2022 durci selon les standards ANSSI.',
-    tags: ['pfSense', 'Wazuh', 'VLAN', 'AD / ANSSI'],
+    tags: ['pfSense', 'Wazuh', 'VLAN', 'AD / ANSSI','Linux','Machine Virtuelles'],
     link: { href: 'https://github.com/lounesfahem/Cybersecurity-HomeLab-Infrastructure', label: 'Voir le projet →' },
   },
   {
     num: '002',
     title: 'Application Android Fullstack',
     desc: "Application mobile complète en Kotlin avec API REST dédiée et base de données SQL sécurisée. Architecture clean, déployée et disponible sur GitHub.",
-    tags: ['Kotlin', 'REST API', 'SQL', 'Android'],
+    tags: ['Kotlin', 'REST API', 'SQL', 'Android Studio', 'Python Flask'],
     link: { href: 'https://github.com/lounesfahem', label: 'GitHub →' },
   },
   {
