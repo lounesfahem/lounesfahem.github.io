@@ -26,7 +26,7 @@ export default function About() {
             Je suis <strong>Lounès Fahem</strong>, 21 ans, actuellement{' '}
             <strong>Technicien RUN</strong> chez OVHcloud à Roubaix.
             Diplômé d'un <strong>BTS CIEL</strong>, j'intègre en 2026
-            un cycle ingénieur en cybersécurité.
+            un cycle ingénieur en spécialité informatique, télécom et réseaux.
           </p>
           <p>
             Ma force : une double compétence <strong>Hardware / MCO</strong> et{' '}
