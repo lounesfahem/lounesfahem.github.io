@@ -27,7 +27,7 @@ const PROJECTS = [
     num: '004',
     title: 'Site e-commerce SEO',
     desc: 'Site e-commerce basé sur la niche des hachoirs, propulsé via shopify.',
-    tags: ['Développement Web', 'Email Marketing', 'Marketing', 'SEO', 'Auto-formation', 'Agents IA', 'Supply chain'],
+    tags: ['Développement Web', 'Email Marketing', 'Marketing', 'SEO', 'Auto-formation', 'Agents IA', 'Supply chain','Google Ads'],
     link: { href: 'https://hachoir-cuisine.com', label: 'Voir le projet →' },
   },
 ]
